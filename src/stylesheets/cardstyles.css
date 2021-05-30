@@ -1,0 +1,28 @@
+.gen-card {
+
+    border: 1px solid;
+    border-color: lightgray;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.gen-card h3 {
+    padding-top: 1rem;
+}
+.style-img {
+    display:inline-block;
+    width: 10rem;
+}
+
+.spacer {
+    padding-bottom: 2rem;
+}
+
+.img-part {
+    border-color: white;
+    display: inline-block;
+    position: relative;
+    
+
+}
