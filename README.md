@@ -2,13 +2,11 @@
 
 Project for Dreamschools
 
-Proud of:
-- Backend is completely functional
-- Learned how to use postgresSQL and S3
+Frontend: React
 
-Next steps:
-- fix image bug
-- add user validation to edit posts
+Backend: Node.js, Express.js
+
+Database: PostgreSQL, AWS S3
 
 Run locally
 
